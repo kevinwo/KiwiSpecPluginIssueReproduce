@@ -1,0 +1,19 @@
+PODS:
+  - Kiwi (2.3.1)
+
+DEPENDENCIES:
+  - Kiwi (from `https://github.com/kiwi-bdd/Kiwi.git`)
+
+EXTERNAL SOURCES:
+  Kiwi:
+    :git: https://github.com/kiwi-bdd/Kiwi.git
+
+CHECKOUT OPTIONS:
+  Kiwi:
+    :commit: 24fa1d6e1ef60d4c94d2db673980ee19d54469e4
+    :git: https://github.com/kiwi-bdd/Kiwi.git
+
+SPEC CHECKSUMS:
+  Kiwi: afcc03a9a03f0d3bb45b0ba452e776c0a102ff39
+
+COCOAPODS: 0.38.2
